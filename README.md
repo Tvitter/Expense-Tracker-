@@ -6,4 +6,4 @@ Key features include a complete authentication system with email/password login,
 
 The technical stack combines React 18 with Vite for frontend tooling, while the backend uses Node.js 20 with Express middleware for request handling. MongoDB Atlas provides cloud database storage with Mongoose schemas enforcing data structure. Security measures include bcrypt password hashing, HTTP-only cookies for JWT storage, and CORS protection. The codebase is organized with clear separation between client-side components (organized by features) and server-side MVC structure (controllers, models, routes).
 
-Additiona of gen AI in the form of AI advisor is also included in the project , the way user can ask about managing expenses and get advice from AI. It uses API key from open source AI platform 'mistral'. 
+Addition of gen AI in the form of AI advisor is also included in the project , the way user can ask about managing expenses and get advice from AI. It uses API key from open source AI platform 'mistral'. 
